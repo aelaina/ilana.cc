@@ -15,7 +15,7 @@ module.exports = {
     plugins: [
         new HtmlWebpackPlugin({
             filename: 'index.html',
-            favicon: 'src/shared.favicon.ico',
+            favicon: 'src/shared/favicon.ico',
             template: 'src/main/main.html',
             chunks: ['main'],
             inject: false
