@@ -9,7 +9,7 @@ var commands = {
         window.typist
               .print("Welcome to my bio site! My name is Ilana (@aelaina).")
               .print("I'm a random trans (MtF) dumbass from the UK! I'm slowly learning my way through coding and other bigger projects over time!")
-              .print("A little more about me; I'm 17 and was born on december 26th, unlucky I know, however, I started my interest into coding once I first got into technology/pc hardware, was competent enough to build my first ever rig, from that point everything has been a new learning expereince!")
+              .print("A little more about me; I'm 17 and was born on december 26th, unlucky I know, however, I started my interest into coding once I first got into technology/pc hardware, was competent enough to build my first ever rig, from that point everything has been a new expereince!")
               .print("I first started out with lua, which then evolved into other languages like html, c++ and more that I will learn overtime!")
               .print("You can find my contact information by running the 'contact' command.")
     },
