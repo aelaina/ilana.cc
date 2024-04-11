@@ -17,9 +17,7 @@ var commands = {
         window.typist.
             print('GitHub: <a href="https://github.com/aelaina">@aelaina</a>').
             sleep(100).
-            print('Discord: aelaina').
-            sleep(100).
-            print('Email: email@example.com');
+            print('Discord: aelaina');
     },
     "help": function(args) {
         for (var prop in commands) {
