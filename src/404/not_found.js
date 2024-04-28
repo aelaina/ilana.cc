@@ -1,4 +1,4 @@
-﻿import {escapeHtml} from '../shared/utils.ts';
+import {escapeHtml} from '../shared/utils.ts';
 import '../shared/main.css';
 import {Typist, TypistOptions, TypistSpeed} from '../shared/typist.ts';
 import 'jquery';
@@ -27,10 +27,10 @@ $(function() {
                     type('firstboot.sh\n').
                speed(TypistSpeed.SUPERFAST).
                     type('    _ __                            \n').
-                    type('   (_) /___ _____  ____ _   __________\n').
-                    type('  / / / __ `/ __ \/ __ `/  / ___/ ___/\n').
-                    type(' / / / /_/ / / / / /_/ /  / /__/ /__  \n').
-                    type('/_/_/\__,_/_/ /_/\__,_(_)/___/\___/   \n').
+                    type('   (_) /___  _____  _____     __________\n').
+                    type('  / / / __ `/ __ \/ __ `/    / ___/ ___/\n').
+                    type(' / / / /_/ / / / / /_/ /    / /__/ /__  \n').
+                    type('/_/_/\__,_/_/ /_/\__,_/ (_) /___/\___/   \n').
                     
                 speed(TypistSpeed.FAST).
                 prompt().

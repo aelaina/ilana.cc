@@ -76,7 +76,7 @@ $(function() {
             print('              |_____|          |_____|         ~ - . _ _~_-_\n').
             print('\n').
         speed(TypistSpeed.FAST).
-            print('Last login: Mon dec  26 00:12:23 on admin@ilana.cc').
+            print('Last login: Mon dec 26 00:12:23 on admin@ilana.cc').
             print('Welcome to the pre-execution environment on ilana.cc. Type \'help\' for a listing of commands.').
         prompt(function() {
           window.enableTyping = true;
