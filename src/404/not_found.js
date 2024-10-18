@@ -25,12 +25,6 @@ $(function() {
         window.typist.prompt().
                speed(TypistSpeed.FAST).
                     type('firstboot.sh\n').
-               speed(TypistSpeed.SUPERFAST).
-                    type('    _ __                            \n').
-                    type('   (_) /___  _____  _____ __________\n').
-                    type('  / / / __ `/ __\/ __ `/ / ___/ ___/\n').
-                    type(' / / / /_/ / /// /_/ /  / /__/  /__  \n').
-                    type('/_/_/\__,_/ _//_/\__,_/(_) /___  / \___/   \n').
                     
                 speed(TypistSpeed.FAST).
                 prompt().
