@@ -7,7 +7,9 @@ var commands = {
     },
     "about": () => {
         window.typist
+              .print("")
               .print("Welcome to my bio site! My name is Ilana (@x3ilana).")
+              .print("")
               .print("I'm a pretty keep-to-myself being with how I go about my day and what I'm upto, however")
               .print("you're able to find out more about me below;")
               .print("")
